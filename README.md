@@ -18,7 +18,6 @@ The **File Sharing System** is a sophisticated peer-to-peer application crafted 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/JafarLone/file-sharing-system.git
    cd file-sharing-system
 2. **Compile the Java files:**
    ```sh
